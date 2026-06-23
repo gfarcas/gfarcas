@@ -13,13 +13,44 @@
 
 **Core Tech**
 
-| Cloud | IaC & Orchestration | CI/CD | Data | Observability | Automation |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/amazonwebservices/58a6ff" width="28" title="AWS"/><br>AWS | <img src="https://cdn.simpleicons.org/kubernetes/58a6ff" width="28" title="Kubernetes"/><br>K8s | <img src="https://cdn.simpleicons.org/gitlab/58a6ff" width="28" title="GitLab"/><br>GitLab | <img src="https://cdn.simpleicons.org/apacheairflow/58a6ff" width="28" title="Airflow"/><br>Airflow | <img src="https://cdn.simpleicons.org/prometheus/58a6ff" width="28" title="Prometheus"/><br>Prometheus | <img src="https://cdn.simpleicons.org/python/58a6ff" width="28" title="Python"/><br>Python |
-| <img src="https://cdn.simpleicons.org/microsoftazure/58a6ff" width="28" title="Azure"/><br>Azure | <img src="https://cdn.simpleicons.org/docker/58a6ff" width="28" title="Docker"/><br>Docker | <img src="https://cdn.simpleicons.org/jenkins/58a6ff" width="28" title="Jenkins"/><br>Jenkins | <img src="https://cdn.simpleicons.org/apachekafka/58a6ff" width="28" title="Kafka"/><br>Kafka | <img src="https://cdn.simpleicons.org/grafana/58a6ff" width="28" title="Grafana"/><br>Grafana | <img src="https://cdn.simpleicons.org/powershell/58a6ff" width="28" title="PowerShell"/><br>PowerShell |
-| <img src="https://cdn.simpleicons.org/googlecloud/58a6ff" width="28" title="GCP"/><br>GCP | <img src="https://cdn.simpleicons.org/terraform/58a6ff" width="28" title="Terraform"/><br>Terraform | <img src="https://cdn.simpleicons.org/git/58a6ff" width="28" title="Git"/><br>Git | <img src="https://cdn.simpleicons.org/redis/58a6ff" width="28" title="Redis"/><br>Redis | <img src="https://cdn.simpleicons.org/loki/58a6ff" width="28" title="Loki"/><br>Loki | <img src="https://cdn.simpleicons.org/gnubash/58a6ff" width="28" title="Bash"/><br>Bash |
-| <img src="https://cdn.simpleicons.org/vmware/58a6ff" width="28" title="VMware"/><br>vCenter | <img src="https://cdn.simpleicons.org/ansible/58a6ff" width="28" title="Ansible"/><br>Ansible |  | <img src="https://cdn.simpleicons.org/fluentd/58a6ff" width="28" title="Fluentd"/><br>Fluentd | <img src="https://cdn.simpleicons.org/zabbix/58a6ff" width="28" title="Zabbix"/><br>Zabbix | <img src="https://cdn.simpleicons.org/linux/58a6ff" width="28" title="Linux"/><br>Linux |
-| <img src="https://cdn.simpleicons.org/tencentqq/58a6ff" width="28" title="Tencent"/><br>Tencent | <img src="https://cdn.simpleicons.org/puppet/58a6ff" width="28" title="Puppet"/><br>Puppet |  | <img src="https://cdn.simpleicons.org/cloudera/58a6ff" width="28" title="Cloudera"/><br>Cloudera | <img src="https://cdn.simpleicons.org/veeam/58a6ff" width="28" title="Veeam"/><br>Veeam | |
+**Cloud & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Tencent Cloud](https://img.shields.io/badge/Tencent-0052CC?style=flat-square&logo=tencentqq&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware_vCenter-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**Orchestration & IaC**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+**CI/CD**  
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Data Infrastructure**  
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white)
+![Cloudera](https://img.shields.io/badge/Cloudera-F96702?style=flat-square&logo=cloudera&logoColor=white)
+
+**Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=loki&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white)
+
+**Automation & OS**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
